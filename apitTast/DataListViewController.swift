@@ -25,7 +25,6 @@ class DataListViewController: UITableViewController {
         netWorking()
         
     }
-    sdsd
     
     //MARK:- NETWORK in Alamofire
      func netWorking() {
