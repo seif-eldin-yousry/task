@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - SwiftyJSON (5.0.0)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftyJSON
+  - SwipeCellKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftyJSON
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: ecc28b7ee7b11aeb0b51203e47c61ac8ca6006a6
+
+COCOAPODS: 1.8.4
